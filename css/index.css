@@ -1,0 +1,44 @@
+body{
+    position: absolute;
+    left: 250px;
+}
+
+img{
+    border: 3px;
+    height: 130px;
+    color: green;
+    float: left;
+}
+.intro{
+    background-color: pink;
+    color: green;
+    width: 450px;
+}
+.likes{
+    background-color: pink;
+    width: 450px;
+    color: green;
+}
+.Dislikes{
+    background-color: pink;
+    width: 450px;
+    color: green;
+}
+table{
+    
+}
+.Lecture{
+    background-color: pink;
+    color: green;
+    width: 450px;
+}
+.follow{
+    background-color: pink;
+    color: green;
+    width: 450px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: green;
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+h3{
+    color: gold;
+    font-weight: bolder;
+}
+.login{
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    width:400px;
+}
+input{
+    margin: 7px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom-color: gold;
+    background-color: black;
+    color: gold;
+}
+#submit{
+    margin: 4px;
+    background-color: rgb(68, 32, 32);
+    width: fit-content;
+    color: gold;
+}
+button{
+    background-color:rgb(68, 32, 32) ;
+    color: gold;
+}
+form{
+    position: absolute;
+    left: 5px;
+}
